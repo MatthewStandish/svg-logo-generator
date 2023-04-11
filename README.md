@@ -27,6 +27,8 @@ npm install inquirer@8.2.4 jest
 
 ## Usage
 
+[Click here to see a demonstration!](https://drive.google.com/file/d/13Gy93SVlH5f5auhmOuxb5aiOkf6q953v/view)
+
 To use the SVG Logo Maker, run the following command in your terminal:
 
 ```
@@ -36,6 +38,8 @@ node index.js
 You will then be prompted to enter the text for the logo, the text color, the shape, and the shape color. For the text color and shape color, you can enter a color keyword (e.g. "red") or a hexadecimal number (e.g. "#FF0000").
 
 After you have provided all the required information, an SVG file named logo.svg will be created in the project directory. You can open this file in a browser to view the resulting logo.
+
+![terminal](/assets/images/terminal.png)
 
 ## License
 
